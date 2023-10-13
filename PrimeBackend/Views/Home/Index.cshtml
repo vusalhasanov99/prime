@@ -1,0 +1,41 @@
+﻿@model FormData
+<main>
+    <div class="main">
+        <div class="main-text">
+            <h2>Special offer in Palm Jumeirah</h2>
+            <h3>Super-luxury hotel for sale</h3>
+            <h4>$150,000,000</h4>
+            <p>
+                Own the epitome of luxury on Palm Jumeirah with our $150 million hotel. Experience the pinnacle of
+                opulence and secure your place in Dubai’s most coveted real estate market today!
+            </p>
+            <div class="main-text-icons">
+                <div><img src="./assets/img/svg/047-building-trade.svg" alt=""><span>122 rooms</span></div>
+                <div><img src="./assets/img/svg/050-prize.svg" alt=""><span>5 star</span></div>
+                <div><img src="./assets/img/svg/018-flat.svg" alt=""><span>6000 sqft</span></div>
+                <div><img src="./assets/img/svg/046-house-4.svg" alt=""><span>palm jumeirah</span></div>
+            </div>
+        </div>
+        <div class="main-form">
+            <div class="main-form-title">
+                <p>Schedule a</p>
+                <p> Private Viewing Today!</p>
+            </div>
+            <p>We’re getting back to you in a few mins.</p>
+            <form asp-action="Create">
+                <div class="fullName">
+                    <input asp-for="FullName" type="text" placeholder="Your full name">
+                </div>
+                <div class="occupation">
+                    <input asp-for="Occupation" type="text" placeholder="Occupation">
+                </div>
+                <div class="phone">
+                    <input asp-for="PhoneNumber" type="text" placeholder="Phone number">
+                </div>
+                <div class="btn-call">
+                    <button type="submit">CALL ME</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
