@@ -57,6 +57,18 @@ namespace PrimeBackend.Controllers
             }
             return View(formData);
         }
+
+        [Route("{action}")]
+        public async Task<IActionResult> GetAll(string secretKey)
+        {
+            if (secretKey=="prime2023")
+            {
+                return _context.FormDatas != null ?
+                       View(await _context.FormDatas.ToListAsync()) :
+                       Problem("Entity set 'AppDbContext.FormDatas'  is null.");
+            }
+            return BadRequest();
+        }
         public IActionResult Privacy()
         {
             return View();

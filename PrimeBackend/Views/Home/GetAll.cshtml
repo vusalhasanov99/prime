@@ -1,0 +1,68 @@
+﻿@model IEnumerable<PrimeBackend.Models.FormData>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+<h1>Form Datas</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Occupation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Occupation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                <td>
+                    @{
+                        // Add 4 hours to the CreateDate
+                        var modifiedDate = item.CreateDate.AddHours(4);
+                    }
+                    @modifiedDate
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<style>
+    /* Add your CSS styles here */
+    table.table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
