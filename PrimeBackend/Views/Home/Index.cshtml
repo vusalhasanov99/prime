@@ -10,10 +10,10 @@
                 opulence and secure your place in Dubai’s most coveted real estate market today!
             </p>
             <div class="main-text-icons">
-                <div><img src="./assets/img/svg/047-building-trade.svg" alt=""><span>122 rooms</span></div>
-                <div><img src="./assets/img/svg/050-prize.svg" alt=""><span>5 star</span></div>
-                <div><img src="./assets/img/svg/018-flat.svg" alt=""><span>6000 sqft</span></div>
-                <div><img src="./assets/img/svg/046-house-4.svg" alt=""><span>palm jumeirah</span></div>
+                <div><img src="./assets/img/svg/047-building-trade.svg" alt=""><span>250<span class="plus">+</span> rooms</span></div>
+                <div><img src="./assets/img/svg/050-prize.svg" alt=""><span>4 star</span></div>
+                <div><img src="./assets/img/svg/018-flat.svg" alt=""><span>5800<span class="plus">+</span> sqft</span></div>
+                <div><img src="./assets/img/svg/046-house-4.svg" alt=""><span>ROI 8%</span></div>
             </div>
         </div>
         <div class="main-form">
@@ -24,13 +24,13 @@
             <p>We’re getting back to you in a few mins.</p>
             <form asp-action="Create">
                 <div class="fullName">
-                    <input asp-for="FullName" type="text" placeholder="Your full name">
+                    <input asp-for="FullName" type="text" placeholder="Your full name" required>
                 </div>
                 <div class="occupation">
-                    <input asp-for="Occupation" type="text" placeholder="Occupation">
+                    <input asp-for="Occupation" type="text" placeholder="Occupation" required>
                 </div>
                 <div class="phone">
-                    <input asp-for="PhoneNumber" type="text" placeholder="Phone number">
+                    <input asp-for="PhoneNumber" type="text" placeholder="Phone number" required>
                 </div>
                 <div class="btn-call">
                     <button type="submit">CALL ME</button>
@@ -39,3 +39,60 @@
         </div>
     </div>
 </main>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10/dist/sweetalert2.all.min.js"></script>
+
+
+<style>
+
+    .center-toast {
+        position: fixed;
+        top: 8% !important;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+</style>
+<script>
+    // Add a JavaScript event handler to prevent form submission when fields are empty
+    document.getElementById("formDataForm").addEventListener("submit", function (event) {
+        var fullName = document.querySelector("input[name='FullName']").value;
+        var occupation = document.querySelector("input[name='Occupation']").value;
+        var phoneNumber = document.querySelector("input[name='PhoneNumber']").value;
+
+        if (!fullName || !occupation || !phoneNumber) {
+            // Display the error message
+            document.getElementById("error-message").style.display = "block";
+            event.preventDefault(); // Prevent form submission
+        }
+    });
+</script>
+@if (ViewBag.Alert == "true")
+{
+    <script>
+        // Wrap the alert code in a document ready function
+        $(document).ready(function () {
+      
+        const Toast = Swal.mixin({
+                toast: true,
+                position: 'top', // Display the toast at the top
+                customClass: {
+                    container: 'center-toast' // Apply a custom CSS class for centering
+                },
+                showConfirmButton: false,
+                timer: 5000,
+                timerProgressBar: false,
+                didOpen: (toast) => {
+                    toast.addEventListener('mouseenter', Swal.stopTimer);
+                    toast.addEventListener('mouseleave', Swal.resumeTimer);
+                }
+            });
+
+            Toast.fire({
+                icon: 'success',
+                title: "Thank you! We'll get back to you soon."
+            });
+        });
+    </script>
+
+}

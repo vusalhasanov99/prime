@@ -18,8 +18,9 @@ namespace PrimeBackend.Controllers
 
 
         // GET: FormDatas
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? alert)
         {
+            ViewBag.Alert = alert;
             return View();
         }
 
@@ -53,9 +54,9 @@ namespace PrimeBackend.Controllers
             {
                 _context.Add(formData);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index", new { alert = "true" });
             }
-            return View(formData);
+            return RedirectToAction("Index", new { alert = "false" });
         }
 
         [Route("{action}")]
