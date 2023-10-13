@@ -190,4 +190,18 @@ form button {
     .main-text-icons > div {
         width: 100%
     }
+ 
+    .swal2-popup.swal2-toast.swal2-icon-success.swal2-show {
+        padding: 7px !important;
+    }
+}
+@media (max-width: 510px) {
+    .center-toast {
+        width: 65%;
+    }
+}
+@media (max-width: 410px){
+    .center-toast {
+        width: 90%;
+    }
 }
