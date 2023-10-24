@@ -7,12 +7,12 @@
     }
 
     #country-code {
-        padding: 8px;
+        padding: 10px 2px;
         font-size: 16px;
         border: 1px solid #ccc;
         border-radius: 4px;
         margin-right: 10px;
-        flex: 1;
+       width:23%;
     }
 
     #phone-number {
@@ -60,7 +60,15 @@
                 </div>
                 <div class="phone">
                     <select id="country-code" asp-for="CountryCode" required>
-                    
+                        <option value="+44"> GB (+44)</option>
+                        <option value="+1">US (+1)</option>
+                        <option value="+971">AE (+971)</option>
+                        <option value="+90">TR (+90)</option>
+                        <option value="+966">SAU (+966)</option>
+                        <option value="+33">FR (+33)</option>
+                        <option value="+49">DE (+49)</option>
+                        <option value="+91">IND (+91)</option>
+                        <option value="+965">KW (+965)</option>
                         <!-- Diğer ülke kodları için daha fazla seçenek ekleyin -->
                     </select>
                     <input id="phone-number" type="text" asp-for="PhoneNumber" placeholder="Phone number" required>
@@ -87,7 +95,7 @@
 
     }
 </style>
-<script>
+@* <script>
     function getCountryCodes() {
         fetch('https://gist.githubusercontent.com/pickletoni/021e2e18e83f33d16fee5daa308e6a4e/raw/fc6fd9127efd12d97a3d39f38befc784d6bcbf22/countryPhoneCodes.json')
             .then(response => response.json())
@@ -110,7 +118,7 @@
             .catch(error => console.error('API çağrısında hata oluştu:', error));
     }
     getCountryCodes()
-</script>
+</script> *@
 <script>
     // Add a JavaScript event handler to prevent form submission when fields are empty
     document.getElementById("formDataForm").addEventListener("submit", function (event) {
