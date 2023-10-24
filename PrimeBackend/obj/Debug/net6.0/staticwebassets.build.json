@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5nLni6GFTbwpCIM01cZ+HqVD9Mpaark+np7OrU06Yw4=",
+  "Hash": "5qAlvNk6+6w0MvaDii0kscfUpRnez8Dv5GwzMu5dT0c=",
   "Source": "PrimeBackend",
   "BasePath": "_content/PrimeBackend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PrimeBackend\\wwwroot",
       "Source": "PrimeBackend",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimeBackend.styles.css",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimeBackend.styles.css",
       "SourceId": "PrimeBackend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "PrimeBackend.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimeBackend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PrimeBackend.styles.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimeBackend.bundle.scp.css",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimeBackend.bundle.scp.css",
       "SourceId": "PrimeBackend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "PrimeBackend.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimeBackend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimeBackend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\css\\style.css",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - OTF.otf",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - OTF.otf",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/font/Lie to Me - OTF.otf",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\font\\Lie to Me - OTF.otf"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - Terms Of Use.URL",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - Terms Of Use.URL",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/font/Lie to Me - Terms Of Use.URL",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\font\\Lie to Me - Terms Of Use.URL"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - TTF.ttf",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - TTF.ttf",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/font/Lie to Me - TTF.ttf",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\font\\Lie to Me - TTF.ttf"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Microgramma Normal.ttf",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Microgramma Normal.ttf",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/font/Microgramma Normal.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\font\\Microgramma Normal.ttf"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\dubai-palm-jumeirah-island-aerial-view-in-united-a-2022-12-16-11-10-25-utc.jpg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\dubai-palm-jumeirah-island-aerial-view-in-united-a-2022-12-16-11-10-25-utc.jpg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/dubai-palm-jumeirah-island-aerial-view-in-united-a-2022-12-16-11-10-25-utc.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dubai-palm-jumeirah-island-aerial-view-in-united-a-2022-12-16-11-10-25-utc.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\001-real-estate.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\001-real-estate.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/001-real-estate.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\001-real-estate.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\002-key.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\002-key.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/002-key.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\002-key.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\003-property.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\003-property.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/003-property.svg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\003-property.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\004-real-estate-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\004-real-estate-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/004-real-estate-1.svg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\004-real-estate-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\005-location.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\005-location.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/005-location.svg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\005-location.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\006-placard.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\006-placard.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/006-placard.svg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\006-placard.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\007-house.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\007-house.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/007-house.svg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\007-house.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\008-sign.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\008-sign.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/008-sign.svg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\008-sign.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\009-signaling.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\009-signaling.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/009-signaling.svg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\009-signaling.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\010-contract.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\010-contract.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/010-contract.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\010-contract.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\011-real-estate-2.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\011-real-estate-2.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/011-real-estate-2.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\011-real-estate-2.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\012-real-estate-3.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\012-real-estate-3.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/012-real-estate-3.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\012-real-estate-3.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\013-garage.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\013-garage.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/013-garage.svg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\013-garage.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\014-garage-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\014-garage-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/014-garage-1.svg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\014-garage-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\015-real-estate-4.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\015-real-estate-4.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/015-real-estate-4.svg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\015-real-estate-4.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\016-placard-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\016-placard-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/016-placard-1.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\016-placard-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\017-online-shop.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\017-online-shop.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/017-online-shop.svg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\017-online-shop.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\018-flat.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\018-flat.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/018-flat.svg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\018-flat.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\019-garage-2.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\019-garage-2.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/019-garage-2.svg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\019-garage-2.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\020-objective.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\020-objective.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/020-objective.svg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\020-objective.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\021-security.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\021-security.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/021-security.svg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\021-security.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\022-house-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\022-house-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/022-house-1.svg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\022-house-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\023-maps.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\023-maps.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/023-maps.svg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\023-maps.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\024-web.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\024-web.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/024-web.svg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\024-web.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\025-contract-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\025-contract-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/025-contract-1.svg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\025-contract-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\026-insurance.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\026-insurance.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/026-insurance.svg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\026-insurance.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\027-building.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\027-building.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/027-building.svg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\027-building.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\028-house-2.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\028-house-2.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/028-house-2.svg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\028-house-2.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\029-fence.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\029-fence.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/029-fence.svg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\029-fence.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\030-parking.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\030-parking.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/030-parking.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\030-parking.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\031-mansion.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\031-mansion.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/031-mansion.svg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\031-mansion.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\032-house-3.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\032-house-3.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/032-house-3.svg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\032-house-3.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\033-real-estate-5.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\033-real-estate-5.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/033-real-estate-5.svg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\033-real-estate-5.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\034-mansion-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\034-mansion-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/034-mansion-1.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\034-mansion-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\035-key-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\035-key-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/035-key-1.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\035-key-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\036-for-sale.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\036-for-sale.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/036-for-sale.svg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\036-for-sale.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\037-mailbox.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\037-mailbox.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/037-mailbox.svg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\037-mailbox.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\038-door.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\038-door.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/038-door.svg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\038-door.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\039-real-estate-6.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\039-real-estate-6.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/039-real-estate-6.svg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\039-real-estate-6.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\040-building-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\040-building-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/040-building-1.svg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\040-building-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\041-bricks.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\041-bricks.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/041-bricks.svg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\041-bricks.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\042-location-1.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\042-location-1.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/042-location-1.svg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\042-location-1.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\043-presentation.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\043-presentation.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/043-presentation.svg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\043-presentation.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\044-contract-2.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\044-contract-2.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/044-contract-2.svg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\044-contract-2.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\045-real-estate-7.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\045-real-estate-7.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/045-real-estate-7.svg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\045-real-estate-7.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\046-house-4.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\046-house-4.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/046-house-4.svg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\046-house-4.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\047-building-trade.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\047-building-trade.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/047-building-trade.svg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\047-building-trade.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\048-house-5.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\048-house-5.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/048-house-5.svg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\048-house-5.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\049-laptop.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\049-laptop.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/049-laptop.svg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\svg\\049-laptop.svg"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\050-prize.svg",
+      "Identity": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\050-prize.svg",
       "SourceId": "PrimeBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\",
       "BasePath": "_content/PrimeBackend",
       "RelativePath": "assets/img/svg/050-prize.svg",
       "AssetKind": "All",

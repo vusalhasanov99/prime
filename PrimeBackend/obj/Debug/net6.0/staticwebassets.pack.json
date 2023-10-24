@@ -1,231 +1,231 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimeBackend.bundle.scp.css",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrimeBackend.bundle.scp.css",
       "PackagePath": "staticwebassets\\PrimeBackend.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - OTF.otf",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - OTF.otf",
       "PackagePath": "staticwebassets\\assets\\font\\Lie to Me - OTF.otf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - TTF.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - TTF.ttf",
       "PackagePath": "staticwebassets\\assets\\font\\Lie to Me - TTF.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - Terms Of Use.URL",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Lie to Me - Terms Of Use.URL",
       "PackagePath": "staticwebassets\\assets\\font\\Lie to Me - Terms Of Use.URL"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\font\\Microgramma Normal.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\font\\Microgramma Normal.ttf",
       "PackagePath": "staticwebassets\\assets\\font\\Microgramma Normal.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\dubai-palm-jumeirah-island-aerial-view-in-united-a-2022-12-16-11-10-25-utc.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\dubai-palm-jumeirah-island-aerial-view-in-united-a-2022-12-16-11-10-25-utc.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\dubai-palm-jumeirah-island-aerial-view-in-united-a-2022-12-16-11-10-25-utc.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\001-real-estate.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\001-real-estate.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\001-real-estate.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\002-key.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\002-key.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\002-key.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\003-property.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\003-property.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\003-property.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\004-real-estate-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\004-real-estate-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\004-real-estate-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\005-location.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\005-location.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\005-location.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\006-placard.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\006-placard.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\006-placard.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\007-house.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\007-house.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\007-house.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\008-sign.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\008-sign.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\008-sign.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\009-signaling.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\009-signaling.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\009-signaling.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\010-contract.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\010-contract.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\010-contract.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\011-real-estate-2.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\011-real-estate-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\011-real-estate-2.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\012-real-estate-3.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\012-real-estate-3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\012-real-estate-3.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\013-garage.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\013-garage.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\013-garage.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\014-garage-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\014-garage-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\014-garage-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\015-real-estate-4.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\015-real-estate-4.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\015-real-estate-4.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\016-placard-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\016-placard-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\016-placard-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\017-online-shop.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\017-online-shop.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\017-online-shop.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\018-flat.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\018-flat.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\018-flat.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\019-garage-2.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\019-garage-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\019-garage-2.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\020-objective.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\020-objective.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\020-objective.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\021-security.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\021-security.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\021-security.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\022-house-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\022-house-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\022-house-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\023-maps.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\023-maps.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\023-maps.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\024-web.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\024-web.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\024-web.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\025-contract-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\025-contract-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\025-contract-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\026-insurance.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\026-insurance.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\026-insurance.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\027-building.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\027-building.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\027-building.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\028-house-2.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\028-house-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\028-house-2.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\029-fence.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\029-fence.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\029-fence.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\030-parking.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\030-parking.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\030-parking.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\031-mansion.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\031-mansion.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\031-mansion.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\032-house-3.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\032-house-3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\032-house-3.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\033-real-estate-5.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\033-real-estate-5.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\033-real-estate-5.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\034-mansion-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\034-mansion-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\034-mansion-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\035-key-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\035-key-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\035-key-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\036-for-sale.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\036-for-sale.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\036-for-sale.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\037-mailbox.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\037-mailbox.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\037-mailbox.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\038-door.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\038-door.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\038-door.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\039-real-estate-6.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\039-real-estate-6.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\039-real-estate-6.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\040-building-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\040-building-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\040-building-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\041-bricks.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\041-bricks.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\041-bricks.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\042-location-1.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\042-location-1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\042-location-1.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\043-presentation.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\043-presentation.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\043-presentation.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\044-contract-2.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\044-contract-2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\044-contract-2.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\045-real-estate-7.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\045-real-estate-7.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\045-real-estate-7.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\046-house-4.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\046-house-4.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\046-house-4.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\047-building-trade.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\047-building-trade.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\047-building-trade.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\048-house-5.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\048-house-5.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\048-house-5.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\049-laptop.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\049-laptop.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\049-laptop.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\primeBack\\PrimeBackend\\PrimeBackend\\wwwroot\\assets\\img\\svg\\050-prize.svg",
+      "Id": "C:\\Users\\User\\Desktop\\prime\\PrimeBackend\\wwwroot\\assets\\img\\svg\\050-prize.svg",
       "PackagePath": "staticwebassets\\assets\\img\\svg\\050-prize.svg"
     },
     {

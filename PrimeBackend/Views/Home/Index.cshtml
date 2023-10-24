@@ -1,4 +1,33 @@
 ﻿@model FormData
+
+<style>
+    .phone {
+        display: flex;
+        align-items: center;
+    }
+
+    #country-code {
+        padding: 8px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-right: 10px;
+        flex: 1;
+    }
+
+    #phone-number {
+        padding: 8px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        flex: 2;
+    }
+
+        /* Opsiyonel: Hoover efekti */
+        #country-code:hover, #phone-number:hover {
+            border-color: #333;
+        }
+</style>
 <main>
     <div class="main">
         <div class="main-text">
@@ -30,7 +59,11 @@
                     <input asp-for="Occupation" type="text" placeholder="Occupation" required>
                 </div>
                 <div class="phone">
-                    <input asp-for="PhoneNumber" type="text" placeholder="Phone number" required>
+                    <select id="country-code" asp-for="CountryCode" required>
+                    
+                        <!-- Diğer ülke kodları için daha fazla seçenek ekleyin -->
+                    </select>
+                    <input id="phone-number" type="text" asp-for="PhoneNumber" placeholder="Phone number" required>
                 </div>
                 <div class="btn-call">
                     <button type="submit">CALL ME</button>
@@ -50,31 +83,57 @@
         top: 8% !important;
         left: 50%;
         transform: translate(-50%, -50%);
-      
     }
-}
+
+    }
 </style>
+<script>
+    function getCountryCodes() {
+        fetch('https://gist.githubusercontent.com/pickletoni/021e2e18e83f33d16fee5daa308e6a4e/raw/fc6fd9127efd12d97a3d39f38befc784d6bcbf22/countryPhoneCodes.json')
+            .then(response => response.json())
+            .then(data => {
+                const countryCodeSelect = document.getElementById('country-code');
+                console.log(countryCodeSelect)
+                console.log(data)
+                // Seçeneği temizle
+                countryCodeSelect.innerHTML = '';
+
+                // Her ülke için bir seçenek oluştur
+                data.forEach(item => {
+                  
+                        const option = document.createElement('option');
+                    option.value = `+${ item.code }`
+                    option.textContent = `${item.iso} (+${item.code})`;
+                        countryCodeSelect.appendChild(option);
+                });
+            })
+            .catch(error => console.error('API çağrısında hata oluştu:', error));
+    }
+    getCountryCodes()
+</script>
 <script>
     // Add a JavaScript event handler to prevent form submission when fields are empty
     document.getElementById("formDataForm").addEventListener("submit", function (event) {
         var fullName = document.querySelector("input[name='FullName']").value;
         var occupation = document.querySelector("input[name='Occupation']").value;
         var phoneNumber = document.querySelector("input[name='PhoneNumber']").value;
+        const countryCodeSelect = document.getElementById('country-code').value;
 
-        if (!fullName || !occupation || !phoneNumber) {
+        if (!fullName || !occupation || !phoneNumber || countryCodeSelect === "-1") {
             // Display the error message
             document.getElementById("error-message").style.display = "block";
             event.preventDefault(); // Prevent form submission
         }
     });
 </script>
+
 @if (ViewBag.Alert == "true")
 {
     <script>
         // Wrap the alert code in a document ready function
         $(document).ready(function () {
-      
-        const Toast = Swal.mixin({
+
+            const Toast = Swal.mixin({
                 toast: true,
                 position: 'top', // Display the toast at the top
                 customClass: {
