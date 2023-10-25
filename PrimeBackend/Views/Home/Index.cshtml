@@ -17,16 +17,160 @@
 
     #phone-number {
         padding: 8px;
-        font-size: 16px;
-        border: 1px solid #ccc;
-        border-radius: 4px;
+        border-radius: 5px;
         flex: 2;
+        border: 1px solid #cfb1b178;
     }
 
+    :root {
+        --primary: #111;
+        --secondary: #fd0;
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: sans-serif;
+        background-color: var(--secondary);
+    }
         /* Opsiyonel: Hoover efekti */
         #country-code:hover, #phone-number:hover {
-            border-color: #333;
         }
+
+    .select-box {
+        position: relative;
+        width: 100%;
+       border:1px solid black;
+       border-radius:5px;
+        z-index:999;
+    }
+
+        .select-box input {
+            width: 100%;
+            border: .1rem solid transparent;
+            outline: none;
+            padding: 15px !important;
+        }
+
+    input[type="PhoneNumber"] {
+        border-radius: 0 .5rem .5rem 0;
+   
+    }
+
+ 
+    .selected-option {
+        background-color: #eee;
+        border-radius: .5rem;
+        overflow: hidden;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        .selected-option div {
+            position: relative;
+            width: 6rem;
+            padding: 0 2.8rem 0 .5rem;
+            text-align: center;
+            cursor: pointer;
+        }
+
+            .selected-option div::after {
+                position: absolute;
+                content: "";
+                right: .8rem;
+                top: 50%;
+                transform: translateY(-50%) rotate(45deg);
+                width: .8rem;
+                height: .8rem;
+                border-right: .12rem solid var(--primary);
+                border-bottom: .12rem solid var(--primary);
+                transition: .2s;
+            }
+
+            .selected-option div.active::after {
+                transform: translateY(-50%) rotate(225deg);
+            }
+
+    .select-box .options {
+        position: absolute;
+        top: 4rem;
+        width: 100%;
+        background-color: #fff;
+        border-radius: .5rem;
+        display: none;
+    }
+
+        .select-box .options.active {
+            display: block;
+            width:35%;
+        }
+
+        .select-box .options::before {
+            position: absolute;
+            content: "";
+            left: 1rem;
+            top: -1.2rem;
+            width: 0;
+            height: 0;
+            border: .6rem solid transparent;
+            border-bottom-color: var(--primary);
+        }
+
+    input.search-box {
+        background-color: var(--primary);
+        color: #fff;
+        border-radius: .5rem .5rem 0 0;
+        padding: 1.4rem 1rem;
+    }
+
+    .select-box ol {
+        list-style: none;
+        max-height: 11rem;
+        overflow: overlay;
+        padding:5px;
+    }
+
+        .select-box ol::-webkit-scrollbar {
+            width: 0.6rem;
+        }
+
+        .select-box ol::-webkit-scrollbar-thumb {
+            width: 0.4rem;
+            height: 3rem;
+            background-color: #ccc;
+            border-radius: .4rem;
+        }
+
+        .select-box ol li {
+            padding: 5px;
+            display: flex;
+            justify-content: space-between;
+            cursor: pointer;
+        }
+
+            .select-box ol li.hide {
+                display: none;
+            }
+
+            .select-box ol li:not(:last-child) {
+                border-bottom: .1rem solid #eee;
+            }
+
+            .select-box ol li:hover {
+                background-color: lightcyan;
+            }
+
+            .select-box ol li .country-name {
+                margin-left: .4rem;
+            }
+            footer{
+                z-index:0 !important;
+            }
 </style>
 <main>
     <div class="main">
@@ -59,19 +203,22 @@
                     <input asp-for="Occupation" type="text" placeholder="Occupation" required>
                 </div>
                 <div class="phone">
-                    <select id="country-code" asp-for="CountryCode" required>
-                        <option value="+44"> GB (+44)</option>
-                        <option value="+1">US (+1)</option>
-                        <option value="+971">AE (+971)</option>
-                        <option value="+90">TR (+90)</option>
-                        <option value="+966">SAU (+966)</option>
-                        <option value="+33">FR (+33)</option>
-                        <option value="+49">DE (+49)</option>
-                        <option value="+91">IND (+91)</option>
-                        <option value="+965">KW (+965)</option>
-                        <!-- Diğer ülke kodları için daha fazla seçenek ekleyin -->
-                    </select>
-                    <input id="phone-number" type="text" asp-for="PhoneNumber" placeholder="Phone number" required>
+
+
+                    <div class="select-box">
+                        <div class="selected-option">
+                            <div>
+                                <span class="iconify" data-icon="flag:gb-4x3"></span>
+                                <strong>+44</strong>
+                            </div>
+                            <input type="tel" name="PhoneNumber" id="phone-number" placeholder="Phone Number" asp-for="PhoneNumber" required>
+                        </div>
+                        <div class="options">
+                            <ol>
+                            </ol>
+                        </div>
+                    </div>
+                    @* <input id="phone-number" type="text" asp-for="PhoneNumber" placeholder="Phone number" required> *@
                 </div>
                 <div class="btn-call">
                     <button type="submit">CALL ME</button>
@@ -95,6 +242,78 @@
 
     }
 </style>
+<script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
+<script>
+    const countries = [
+        { name: "United Kingdom", code: "GB", phone: 44 },
+        { name: "United States", code: "US", phone: 1 },
+        { name: "United Arab Emirates", code: "AE", phone: 971 },
+        { name: "Turkey", code: "TR", phone: 90 },
+        { name: "Saudi Arabia", code: "SA", phone: 966 },
+        { name: "France", code: "FR", phone: 33 },
+        { name: "Germany", code: "DE", phone: 49 },
+        { name: "India", code: "IN", phone: 91 },
+        { name: "Kuwait", code: "KW", phone: 965 },
+    ],
+
+        select_box = document.querySelector('.options'),
+        search_box = document.querySelector('.search-box'),
+        input_box = document.querySelector('input[type="tel"]'),
+        selected_option = document.querySelector('.selected-option div');
+
+    let options = null;
+
+    for (country of countries) {
+        const option = `
+        <li class="option">
+            <div>
+                <span class="iconify" data-icon="flag:${country.code.toLowerCase()}-4x3"></span>
+                <span class="country-name">${country.code}</span>
+            </div>
+            <strong>+${country.phone}</strong>
+        </li> `;
+
+        select_box.querySelector('ol').insertAdjacentHTML('beforeend', option);
+        options = document.querySelectorAll('.option');
+
+    }
+
+    function selectOption() {
+        console.log(this);
+        const icon = this.querySelector('.iconify').cloneNode(true),
+            phone_code = this.querySelector('strong').cloneNode(true);
+
+        selected_option.innerHTML = '';
+        selected_option.append(icon, phone_code);
+
+        input_box.value = phone_code.innerText;
+
+        select_box.classList.remove('active');
+        selected_option.classList.remove('active');
+
+        search_box.value = '';
+        select_box.querySelectorAll('.hide').forEach(el => el.classList.remove('hide'));
+     
+    }
+
+    function searchCountry() {
+        let search_query = search_box.value.toLowerCase();
+        for (option of options) {
+            let is_matched = option.querySelector('.country-name').innerText.toLowerCase().includes(search_query);
+            option.classList.toggle('hide', !is_matched)
+        }
+    }
+
+
+    selected_option.addEventListener('click', () => {
+        select_box.classList.toggle('active');
+        selected_option.classList.toggle('active');
+  
+    })
+
+    options.forEach(option => option.addEventListener('click', selectOption));
+    search_box.addEventListener('input', searchCountry);
+</script>
 @* <script>
     function getCountryCodes() {
         fetch('https://gist.githubusercontent.com/pickletoni/021e2e18e83f33d16fee5daa308e6a4e/raw/fc6fd9127efd12d97a3d39f38befc784d6bcbf22/countryPhoneCodes.json')
@@ -125,9 +344,8 @@
         var fullName = document.querySelector("input[name='FullName']").value;
         var occupation = document.querySelector("input[name='Occupation']").value;
         var phoneNumber = document.querySelector("input[name='PhoneNumber']").value;
-        const countryCodeSelect = document.getElementById('country-code').value;
 
-        if (!fullName || !occupation || !phoneNumber || countryCodeSelect === "-1") {
+        if (!fullName || !occupation || !phoneNumber) {
             // Display the error message
             document.getElementById("error-message").style.display = "block";
             event.preventDefault(); // Prevent form submission

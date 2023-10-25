@@ -55,7 +55,7 @@ namespace PrimeBackend.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,FullName,Occupation,PhoneNumber,CountryCode")] FormData formData)
+        public async Task<IActionResult> Create([Bind("Id,FullName,Occupation,PhoneNumber")] FormData formData)
         {
             if (ModelState.IsValid)
             {
